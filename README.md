@@ -20,3 +20,5 @@
 2. Download the source code
 3. Run build.bat
 4. Build will be available in the source code folder /plugins
+
+## Huge thanks to **[moep](https://github.com/batram)** for creating the original [DanceForce](https://github.com/batram/UCH-DanceForce/tree/main) mod — this project is based on their structure and helped me learn how to mod UCH in the first place.
